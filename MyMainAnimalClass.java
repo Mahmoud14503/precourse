@@ -14,8 +14,9 @@ class Animal {
     String food;
     String name;
     String specie;
-    String color;
     int age;
+    String clothes;
+    String owner;
 
     void eat() {
         System.out.println("eating food...");
