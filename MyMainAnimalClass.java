@@ -18,9 +18,7 @@ class Animal {
     String clothes;
     String owner;
 
-    void eat() {
-        System.out.println("eating food...");
-    }
+
     void makeSound() {
         System.out.println("making sound...");
     }
